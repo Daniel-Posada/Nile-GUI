@@ -1,10 +1,10 @@
 # Nile-GUI
 Mock online shopping cart 
-<img src = "MainPage.png"> 
-<img src = "FindItem.png"> 
-<img src = "ItemNotFound.png"> 
-<img src = "LowStock.png"> 
-<img src = "NoStock.png"> 
-<img src = "ItemAdded.png"> 
-<img src = "cart.png"> 
-<img src = "Receipt.png"> 
+<img src = "MainPage.png" width=400> 
+<img src = "FindItem.png" width=400> 
+<img src = "ItemNotFound.png" width=400> 
+<img src = "LowStock.png" width=400> 
+<img src = "NoStock.png" width=400> 
+<img src = "ItemAdded.png" width=400> 
+<img src = "cart.png" width=400> 
+<img src = "Receipt.png" width=400> 
