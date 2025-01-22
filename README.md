@@ -1,5 +1,5 @@
 # Nile-GUI
-##Mock online shopping cart <br>
+## Mock online shopping cart <br>
 <img src = "MainPage.png" width=500> 
 <img src = "FindItem.png" width=500> 
 <img src = "ItemNotFound.png" width=500> 
