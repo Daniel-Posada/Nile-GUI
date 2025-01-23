@@ -1,6 +1,6 @@
 # Nile-GUI
 ## Overview
-This is a java application that is supposed to emulate an online shopping cart. <br>
+This is a java application that is supposed to emulate an online shopping cart using Eclipse and the Java Swing library for the GUI. <br>
 ## Home Page
 This is the clean home page with no values inputted yet. At the top you have all the values inputted and outputted for the indivual item you're looking for. The middle section is your "Shopping Cart" where it lists all the items you've successfully added. And at the bottom there are six buttons, each of which we'll discuss the specifics of later.<br><br>
 At the top you have to input your desired item ID followed by the quantity of the item. Before inputting these values the "Item Details", "Price", and "Discount" text labels are disabled.<br><br>
